@@ -8,6 +8,10 @@ uv run conways_game_of_lfe.py
 
 # Samples
 
-Glider:
+## Stable state from random seed
 
-![glider](./assets/conways-game-of-life-glider-v2.gif)
+![stable](./assets/conways-game-of-life-stable-state.gif)
+
+## Glider
+
+![glider](./assets/conneys-game-of-life-glider.gif)
