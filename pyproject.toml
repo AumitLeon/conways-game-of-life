@@ -1,0 +1,20 @@
+[project]
+name = "conways-game-of-life"
+version = "0.1.0"
+description = "Implementation of Conway's game of life"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython==8.30.0",
+    "ruff==0.8.1",
+]
+
+[tool.pytest.ini_options]
+addopts = "--import-mode=importlib"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W"]
+
