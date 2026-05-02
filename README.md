@@ -14,4 +14,4 @@ uv run conways_game_of_lfe.py
 
 ## Glider
 
-![glider](./assets/conneys-game-of-life-glider.gif)
+![glider](./assets/conways-game-of-life-glider.gif)
